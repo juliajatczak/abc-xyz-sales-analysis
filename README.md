@@ -21,5 +21,3 @@ This project performs an automated ABC–XYZ analysis of sales data using Python
 ## Business insight
 The analysis shows a strong Pareto effect – a small number of products (class A) generate the majority of revenue.
 Products classified as AX should be prioritized in inventory planning, while CZ and BZ products are candidates for stock reduction.
-
-Update README with project description
